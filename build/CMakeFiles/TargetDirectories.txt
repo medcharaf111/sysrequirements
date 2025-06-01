@@ -1,0 +1,5 @@
+C:/Users/charaf/Desktop/grid/build/CMakeFiles/dxdiag_gui_app.dir
+C:/Users/charaf/Desktop/grid/build/CMakeFiles/edit_cache.dir
+C:/Users/charaf/Desktop/grid/build/CMakeFiles/rebuild_cache.dir
+C:/Users/charaf/Desktop/grid/build/CMakeFiles/dxdiag_gui_app_autogen_timestamp_deps.dir
+C:/Users/charaf/Desktop/grid/build/CMakeFiles/dxdiag_gui_app_autogen.dir

@@ -1,0 +1,1 @@
+-IC:/Users/charaf/Desktop/grid/build/dxdiag_gui_app_autogen/include -IC:/Users/charaf/Desktop/grid -isystem C:/Qt/6.8.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.8.1/mingw_64/include -isystem C:/Qt/6.8.1/mingw_64/include/QtCore -isystem "C:/Qt/6.8.1/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.8.1/mingw_64/include/QtGui -isystem C:/Qt/6.8.1/mingw_64/include/QtNetwork
